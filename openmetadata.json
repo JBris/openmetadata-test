@@ -1,0 +1,15 @@
+{
+    "entries": [
+        {
+            "dataPath": "flowers",
+            "structureFormat": "csv",
+            "separator": ","
+        },
+        {
+            "dataPath": "unstructured",
+            "unstructuredFormats": [
+                "*"
+            ]
+        }
+    ]
+}
